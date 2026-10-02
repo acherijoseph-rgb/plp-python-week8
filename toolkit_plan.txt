@@ -8,6 +8,7 @@ Concepts used:
 - Input and output
 - Conditionals
 - F-strings
+- Error handling
 
 2. TO-DO LIST
 The to-do list will allow the user to add tasks, view tasks, and remove tasks while the program is running.
@@ -29,6 +30,16 @@ Concepts used:
 - Input and output
 - F-strings
 
+4. NAME FORMATTER
+The name formatter will ask the user for their full name and format it with proper capitalization.
+
+Concepts used:
+- Variables
+- Input and output
+- String methods
+- Conditionals
+- F-strings
+
 MENU TEXT
 
 ========================================
@@ -40,6 +51,7 @@ Please choose a tool:
 1. Calculator
 2. To-Do List
 3. Number Guessing Game
-4. Quit
+4. Name Formatter
+5. Quit
 
 Enter your choice:
